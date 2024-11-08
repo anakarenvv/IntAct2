@@ -1,0 +1,3 @@
+C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2/cmake-build-debug/CMakeFiles/ActInt2.dir
+C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
