@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2/cmake-build-debug"
+			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/IntAct2/cmake-build-debug"
 		},
 		{
 			"name" : "ActInt2_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2"
+			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/IntAct2"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2/cmake-build-debug"
+			"value" : "c:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/IntAct2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -611,7 +611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/IntAct2/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/ActInt2"
+			"value" : "C:/Users/sergu/OneDrive/Documentos/Tec/5to_Semestre/Analysis and Design of Advanced Algorithms/TC2038/ActInt2/IntAct2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
